@@ -1,6 +1,6 @@
-# Unreal 4 Coding Conventions 1.0
+# Unreal Engine 5 Coding Conventions 1.0
 
-This document summarizes the high-level coding conventions for writing Unreal 4 client code at Daedalic Entertainment. They are based on the official Unreal Coding Standard:
+This document summarizes the high-level coding conventions for writing Unreal Engine 5 code at VR Hero UG. They are based on the official Unreal Coding Standard:
 
 * https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html
 
